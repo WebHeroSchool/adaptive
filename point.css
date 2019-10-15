@@ -22,7 +22,7 @@
 	}
 }
 
-@media (min-width: 125px) {
+@media (min-width: 1025px) {
 	.title {
 		font-size: 35px;
 	}
